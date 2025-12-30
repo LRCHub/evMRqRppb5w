@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "cinema",
+  "base_artist": "=LOVE",
+  "createdAt": "2025-12-30T14:29:29.292077Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "The Melrose Avenue Cinema Two",
+      "artist": "Clay Walker",
+      "has_synced": true,
+      "path": "select/01_The_Melrose_Avenue_Cinema_Two_Clay_Walker.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "The Melrose Avenue Cinema Two (Album Version)",
+      "artist": "Clay Walker",
+      "has_synced": false,
+      "path": "select/02_The_Melrose_Avenue_Cinema_Two_(Album_Version)_Clay_Walker.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Cinema Verité",
+      "artist": "Serú Girán",
+      "has_synced": false,
+      "path": "select/03_Cinema_Verité_Serú_Girán.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Cinema Verité",
+      "artist": "Serú Girán",
+      "has_synced": true,
+      "path": "select/04_Cinema_Verité_Serú_Girán.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Cinema",
+      "artist": "Malik Djoudi",
+      "has_synced": true,
+      "path": "select/05_Cinema_Malik_Djoudi.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Twin Cinema",
+      "artist": "The New Pornographers",
+      "has_synced": true,
+      "path": "select/06_Twin_Cinema_The_New_Pornographers.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Dancing Anymore (Two Door Cinema Club Remix)",
+      "artist": "Is Tropical",
+      "has_synced": false,
+      "path": "select/07_Dancing_Anymore_(Two_Door_Cinema_Club_Remix)_Is_Tropical.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Cinema Paradiso - Profumo di limone",
+      "artist": "Hayley Westenra feat. Ennio Morricone",
+      "has_synced": true,
+      "path": "select/08_Cinema_Paradiso_-_Profumo_di_limone_Hayley_Westenra_feat._Ennio_Morricone.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Cinema Paradiso - Profumo di Limone",
+      "artist": "Hayley Westenra - Ennio Morricone",
+      "has_synced": true,
+      "path": "select/09_Cinema_Paradiso_-_Profumo_di_Limone_Hayley_Westenra_-_Ennio_Morricone.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Cinema Paradiso: Would He Even Know Me Now?",
+      "artist": "Hayley Westenra feat. Ennio Morricone",
+      "has_synced": true,
+      "path": "select/10_Cinema_Paradiso__Would_He_Even_Know_Me_Now_Hayley_Westenra_feat._Ennio_Morricone.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Cinema Paradiso - Would He Even Know Me Now?",
+      "artist": "Hayley Westenra - Ennio Morricone",
+      "has_synced": true,
+      "path": "select/11_Cinema_Paradiso_-_Would_He_Even_Know_Me_Now_Hayley_Westenra_-_Ennio_Morricone.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Cinema - (Skrillex Mix)",
+      "artist": "Benny Benassi feat. Gary Go",
+      "has_synced": false,
+      "path": "select/12_Cinema_-_(Skrillex_Mix)_Benny_Benassi_feat._Gary_Go.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Cinema",
+      "artist": "Ice Mc feat. Campbell I.C.",
+      "has_synced": true,
+      "path": "select/13_Cinema_Ice_Mc_feat._Campbell_I.C..lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Cinema",
+      "artist": "Ice MC",
+      "has_synced": true,
+      "path": "select/14_Cinema_Ice_MC.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "cinema",
+      "artist": "=LOVE",
+      "has_synced": false,
+      "path": "select/pl_01_cinema_=LOVE.txt"
+    }
+  ]
+}
